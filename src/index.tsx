@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import "./styles.css";
 import { Model, Param, ParamsEditor } from "./ParamsEditor";
 
 const params: Param[] = [

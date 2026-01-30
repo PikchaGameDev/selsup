@@ -5,7 +5,8 @@
   "scripts": {
     "test": "jest",
     "dev": "vite",
-    "build": "tsc && vite build"
+    "build": "tsc && vite build",
+    "start": "npm i && npm run test && npm run dev"
   },
   "repository": {
     "type": "git",
