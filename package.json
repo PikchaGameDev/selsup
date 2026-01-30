@@ -1,0 +1,30 @@
+{
+  "name": "selsup",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PikchaGameDev/selsup.git"
+  },
+  "author": "Aleksandr Grigorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PikchaGameDev/selsup/issues"
+  },
+  "homepage": "https://github.com/PikchaGameDev/selsup#readme",
+  "description": "",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.10",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^4.7.0",
+    "typescript": "^5.9.3",
+    "vite": "^6.4.1"
+  }
+}
